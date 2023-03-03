@@ -17,7 +17,7 @@ export const enumLabels = {
 
 export type Unit = keyof typeof enumLabels;
 
-const API_KEY: string = "dc16838b78f7aba9e2513d2df0f6994d";
+const API_KEY: string = "d19f2ecf1d013b7c1eaa7ee14d2de767";
   
 export async function getTempByZipCode(
     zipCode: string,
